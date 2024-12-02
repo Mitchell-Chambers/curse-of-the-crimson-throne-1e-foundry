@@ -1,0 +1,14 @@
+{
+  "title": "Curse of the Crimson Throne 1e",
+  "id": "curse-of-the-crimson-throne-1e",
+  "system": "pf1",
+  "joinTheme": "default",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "10.8",
+  "lastPlayed": "Tue Dec 03 2024 08:56:42 GMT+1100 (Australian Eastern Daylight Time)",
+  "playtime": 33214
+}
