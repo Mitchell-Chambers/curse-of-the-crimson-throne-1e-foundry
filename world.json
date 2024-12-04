@@ -9,6 +9,20 @@
     "verified": "11"
   },
   "systemVersion": "10.8",
-  "lastPlayed": "Tue Dec 03 2024 08:56:42 GMT+1100 (Australian Eastern Daylight Time)",
-  "playtime": 33214
+  "lastPlayed": "Wed Dec 04 2024 18:29:03 GMT+1100 (Australian Eastern Daylight Time)",
+  "playtime": 44817,
+  "packs": [
+    {
+      "label": "Curse of the Crimson Throne",
+      "type": "Adventure",
+      "name": "curse-of-the-crimson-throne",
+      "path": "packs/curse-of-the-crimson-throne",
+      "system": "pf1",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
 }

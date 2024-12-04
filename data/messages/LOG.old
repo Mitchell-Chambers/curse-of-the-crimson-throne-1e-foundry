@@ -1,0 +1,8 @@
+2024/12/04-14:33:27.268823 30f4a3000 Recovering log #12
+2024/12/04-14:33:27.269928 30f4a3000 Delete type=0 #12
+2024/12/04-14:33:27.272182 30f4a3000 Delete type=3 #10
+2024/12/04-15:53:12.216535 309290000 Level-0 table #17: started
+2024/12/04-15:53:12.216941 309290000 Level-0 table #17: 0 bytes OK
+2024/12/04-15:53:12.217307 309290000 Delete type=0 #15
+2024/12/04-15:53:12.218025 309290000 Manual compaction at level-0 from '!messages!9yyB3fIXLCeObMmc' @ 72057594037927935 : 1 .. '!messages!YzDc9JyrGMKuv3aZ' @ 0 : 0; will stop at (end)
+2024/12/04-15:53:12.224475 309290000 Manual compaction at level-1 from '!messages!9yyB3fIXLCeObMmc' @ 72057594037927935 : 1 .. '!messages!YzDc9JyrGMKuv3aZ' @ 0 : 0; will stop at (end)
