@@ -1,8 +1,5 @@
-2024/12/04-14:33:27.362906 30fca2000 Recovering log #8
-2024/12/04-14:33:27.363423 30fca2000 Delete type=3 #6
-2024/12/04-14:33:27.363465 30fca2000 Delete type=0 #8
-2024/12/04-15:53:12.228481 309290000 Level-0 table #13: started
-2024/12/04-15:53:12.228571 309290000 Level-0 table #13: 0 bytes OK
-2024/12/04-15:53:12.228989 309290000 Delete type=0 #11
-2024/12/04-15:53:12.229053 309290000 Manual compaction at level-0 from '!adventures!L1MphdJqqNdbVJWa' @ 72057594037927935 : 1 .. '!adventures!tWLWcMbOLpbiRiSA' @ 0 : 0; will stop at (end)
-2024/12/04-15:53:12.229085 309290000 Manual compaction at level-1 from '!adventures!L1MphdJqqNdbVJWa' @ 72057594037927935 : 1 .. '!adventures!tWLWcMbOLpbiRiSA' @ 0 : 0; will stop at (end)
+2024/12/04-19:49:48.970 3680 Log #15: 0 ops saved to Table #16 OK
+2024/12/04-19:49:48.971 3680 Archiving C:\Users\Mitchell\AppData\Local\FoundryVTT\Data\worlds\curse-of-the-crimson-throne-1e\packs\curse-of-the-crimson-throne/000015.log: OK
+2024/12/04-19:49:48.971 3680 Table #5: 25 entries OK
+2024/12/04-19:49:48.976 3680 Archiving C:\Users\Mitchell\AppData\Local\FoundryVTT\Data\worlds\curse-of-the-crimson-throne-1e\packs\curse-of-the-crimson-throne/MANIFEST-000014: OK
+2024/12/04-19:49:48.985 3680 **** Repaired leveldb C:\Users\Mitchell\AppData\Local\FoundryVTT\Data\worlds\curse-of-the-crimson-throne-1e\packs\curse-of-the-crimson-throne; recovered 1 files; 2482 bytes. Some data may have been lost. ****

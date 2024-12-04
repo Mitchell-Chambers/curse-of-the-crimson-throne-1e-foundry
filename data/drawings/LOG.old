@@ -1,7 +1,4 @@
-2024/12/04-14:33:27.281221 30f4a3000 Recovering log #12
-2024/12/04-14:33:27.282059 30f4a3000 Delete type=0 #12
-2024/12/04-14:33:27.282097 30f4a3000 Delete type=3 #10
-2024/12/04-15:53:12.183993 309290000 Level-0 table #17: started
-2024/12/04-15:53:12.184189 309290000 Level-0 table #17: 0 bytes OK
-2024/12/04-15:53:12.184356 309290000 Delete type=0 #15
-2024/12/04-15:53:12.184872 309290000 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2024/12/04-19:49:48.468 6c04 Log #19: 0 ops saved to Table #20 OK
+2024/12/04-19:49:48.468 6c04 Archiving C:/Users/Mitchell/AppData/Local/FoundryVTT/Data/worlds/curse-of-the-crimson-throne-1e/data/drawings/000019.log: OK
+2024/12/04-19:49:48.474 6c04 Archiving C:/Users/Mitchell/AppData/Local/FoundryVTT/Data/worlds/curse-of-the-crimson-throne-1e/data/drawings/MANIFEST-000018: OK
+2024/12/04-19:49:48.483 6c04 **** Repaired leveldb C:/Users/Mitchell/AppData/Local/FoundryVTT/Data/worlds/curse-of-the-crimson-throne-1e/data/drawings; recovered 0 files; 0 bytes. Some data may have been lost. ****
